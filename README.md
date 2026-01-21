@@ -27,4 +27,4 @@ My goal is to transition into a junior SOC or cybersecurity analyst role.
 - Improve packet analysis skills
 - Learn SIEM fundamentals
 
-📌 This repository is continuously updated as I progress.
+This repository is continuously updated as I progress.
