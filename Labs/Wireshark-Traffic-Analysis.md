@@ -1,24 +1,26 @@
 # Wireshark Traffic Analysis – TryHackMe
 
 ## Objective
-Analyze network traffic using Wireshark to identify protocols, suspicious activity, and communication patterns.
+To analyze captured network traffic and identify relevant information and suspicious patterns using Wireshark.
 
 ## Tools Used
 - Wireshark
 - PCAP files
-- Display filters
+- Network protocols (HTTP, DNS, TCP, ICMP)
 
-## What I Did
-- Opened and analyzed PCAP files
-- Applied display filters to isolate traffic (HTTP, DNS, TCP)
-- Followed TCP streams to understand communication flows
-- Identified abnormal and suspicious traffic patterns
+## Tasks Performed
+- Opened and analyzed PCAP files in Wireshark
+- Applied display filters to isolate specific traffic
+- Followed TCP streams to reconstruct sessions
+- Analyzed DNS and HTTP traffic
+- Identified abnormal or suspicious communication patterns
 
 ## Challenges
-- Understanding which filters to apply efficiently
-- Interpreting raw packet data without context
+- Choosing the correct display filters
+- Understanding protocol behavior at packet level
+- Interpreting traffic without full context
 
 ## Key Takeaways
-- Packet analysis requires both technical knowledge and analytical thinking
-- Small details in traffic can reveal meaningful indicators
-- Wireshark is a critical tool for SOC analysts
+- Packet-level visibility provides deep insight into network behavior
+- Good protocol knowledge is essential for traffic analysis
+- Attention to detail is critical during investigations
