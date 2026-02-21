@@ -4,7 +4,7 @@ One of the main challenges I face is understanding large amounts of raw data, es
 
 At times, it is difficult to distinguish between normal and abnormal behavior without enough context.
 
-If I say that these challenges motivate me, it will not be true, but nothing comes easy. 
+Large volumes of raw network data can appear complex at first glance, but with proper use of filters and structured analysis (IP addresses, ports, timestamps, protocols), relevant activity can be efficiently isolated.
 
 I am learning to:
 - Be patient during analysis
