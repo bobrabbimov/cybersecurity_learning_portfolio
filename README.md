@@ -4,7 +4,7 @@ This repository documents my hands-on learning journey in cybersecurity, with a 
 
 ## About Me
 I am an aspiring Cybersecurity / SOC Analyst actively developing practical skills through hands-on labs and real-world simulations.  
-My goal is to transition into a junior SOC or cybersecurity analyst role.
+My goal is to contribute as a Junior SOC / Cybersecurity Analyst, applying structured traffic analysis and investigation skills in a real-world security operations environment.
 
 ## What This Repository Contains
 - Practical lab write-ups (TryHackMe, network analysis, security tools)
